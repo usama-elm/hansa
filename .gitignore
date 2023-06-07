@@ -1,0 +1,8 @@
+src/*.o
+src/main_exec
+main_exec
+dist/*
+build/*
+.hansa/*
+main.spec
+models/*
